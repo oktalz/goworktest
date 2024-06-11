@@ -1,4 +1,4 @@
-package package2
+package main
 
 import (
 	"github.com/google/uuid"
@@ -11,5 +11,9 @@ func UUID() string {
 }
 
 func Hey() string {
-	package1.UUID()
+	return package1.UUID()
+}
+
+func main() {
+	print(package1.UUID())
 }

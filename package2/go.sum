@@ -1,0 +1,4 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/oktalz/goworktest/package1 v0.0.0-20240611091338-1dbee2dded17 h1:+BfDZ4gVGk2VTOHvH+bTY+1Z1gyCd871zRjpwHJikHc=
+github.com/oktalz/goworktest/package1 v0.0.0-20240611091338-1dbee2dded17/go.mod h1:Rv+dRc6ezv3HbtYmpxVHGRH4n1zwgbfYHDhF6qchILA=
