@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/google/uuid"
-	"github.com/oktalz/goworktest/package1"
+	"github.com/oktalz/goworktest/common"
 )
 
 func UUID() string {
@@ -11,9 +11,9 @@ func UUID() string {
 }
 
 func Hey() string {
-	return package1.UUID()
+	return common.UUID()
 }
 
 func main() {
-	print(package1.UUID())
+	print(common.UUID())
 }
